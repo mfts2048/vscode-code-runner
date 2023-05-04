@@ -271,7 +271,7 @@
 * Add support for Swift, Julia, Crystal
 
 ### 0.3.1
-* Update README.md about running TypeScript with ts-node
+* Update README.md about running TypeScript with esno
 
 ### 0.3.0
 * Add support for TypeScript, CoffeeScript, Scala

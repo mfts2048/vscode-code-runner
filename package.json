@@ -152,7 +152,7 @@
             "fsharp": "fsi",
             "csharp": "scriptcs",
             "vbscript": "cscript //Nologo",
-            "typescript": "ts-node",
+            "typescript": "esno",
             "coffeescript": "coffee",
             "scala": "scala",
             "swift": "swift",

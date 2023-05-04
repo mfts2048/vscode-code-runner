@@ -209,7 +209,7 @@ To set whether to preserve focus on code editor after code run is triggered (def
 ## Note
 * For Objective-C, it is only supported on macOS
 * To run C# script, you need to install [scriptcs](http://scriptcs.net/)
-* To run TypeScript, you need to install [ts-node](https://github.com/TypeStrong/ts-node)
+* To run TypeScript, you need to install [esno](https://github.com/esbuild-kit/esno)
 * To run Clojure, you need to install [Leiningen](https://leiningen.org/) and [lein-exec](https://github.com/kumarshantanu/lein-exec)
 
 ## Telemetry data
